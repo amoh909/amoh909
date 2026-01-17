@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Ali
 
-<!--
-**amoh909/amoh909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **computer scientist based in Lebanon** with interests spanning **programming, mathematics, physics, philosophy, history**, and related fields.
 
-Here are some ideas to get you started:
+### 🔬 Research & Academics
+I'm currently working on a research project titled:  
+**“A Comparative Study of Optimization Algorithms in Training Deep Neural Networks.”**  
+Alongside this, I'm actively studying **optimization theory**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Frontend:** React (shadcn/ui), Tailwind CSS  
+- **Backend:** Node.js  
+- **Languages:** TypeScript  
+
+### 🤝 Collaboration
+I'm open to collaborating on interesting **projects or research**.
+
+📫 **Contact:** ali2moh.04@gmail.com
