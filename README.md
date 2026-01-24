@@ -5,7 +5,7 @@ I'm a **computer scientist based in Lebanon** with interests spanning **programm
 ### 🔬 Research & Academics
 I'm currently working on a research project titled:  
 **“A Comparative Study of Optimization Algorithms in Training Deep Neural Networks.”**  
-Alongside this, I'm actively studying **optimization theory**.
+Alongside this, I'm actively studying **optimization theory** and **GPU computing**
 
 ### 💻 Tech Stack
 - **Frontend:** React (shadcn/ui), Tailwind CSS  
