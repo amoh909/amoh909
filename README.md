@@ -7,9 +7,10 @@ I'm currently working on a research project titled:
 **“A Comparative Study of Optimization Algorithms in Training Deep Neural Networks.”**  
 Alongside this, I'm actively studying **optimization theory** and **GPU computing**
 
-### 💻 Tech Stack
+### 💻 Software Development Tech Stack
 - **Frontend:** React (shadcn/ui), Tailwind CSS  
-- **Backend:** Node.js  
+- **Backend:** Node.js
+- **Full Stack** Next.js
 - **Languages:** TypeScript  
 
 ### 🤝 Collaboration
