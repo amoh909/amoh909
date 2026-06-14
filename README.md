@@ -14,34 +14,15 @@ My interests range from software engineering and distributed systems to machine 
 
 ## Tech I work with
 
-**Languages**
+**Languages:** TypeScript, JavaScript, Java, Go, Python
 
-* TypeScript
-* JavaScript
-* Java
-* Go
-* Python
+**Frontend:** React, Next.js, Tailwind CSS, shadcn/ui
 
-**Frontend**
+**Backend:** Node.js, Express, Spring Boot, REST APIs
 
-* React
-* Next.js
-* Tailwind CSS
-* shadcn/ui
+**Machine Learning:** Scikit-learn, PyTorch, NumPy, Pandas
 
-**Backend**
-
-* Node.js
-* Express
-* Spring Boot
-* REST APIs
-
-**Tools**
-
-* Git
-* GitHub
-* Docker
-* Linux
+**Other Tech tools:** Cuda, n8n, Docker, AWS
 
 ## Current interests
 
@@ -55,6 +36,6 @@ My interests range from software engineering and distributed systems to machine 
 
 ## Beyond coding
 
-I'm an avid reader, you can find me reading any book, I'd love to discusss some books.
+I'm an avid reader, you can find me reading any book, I'd love to discuss some books.
 
-📫 I am open to collaborations, you can reach me at: **[ali2moh.04@gmail.com](mailto:ali2moh.04@gmail.com)**
+📫 I am open to collaborations. You can reach me at: **[ali2moh.04@gmail.com](mailto:ali2moh.04@gmail.com)**
