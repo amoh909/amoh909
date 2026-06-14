@@ -1,8 +1,8 @@
 # Hey, I'm Ali 👋
 
-I'm a Computer Science graduate from Lebanon who enjoys building software and understanding how things work beneath the surface.
+I'm a Computer Science graduate from Lebanon who enjoys building software and understanding how systems work under the hood.
 
-My interests range from software engineering and distributed systems to machine learning, mathematics, and physics. I like working on projects that force me to learn new concepts, whether that's designing backend systems, exploring cloud technologies, implementing networking protocols, or studying optimization algorithms.
+My interests span **software engineering, distributed systems, machine learning, mathematics, and physics**. I enjoy working on projects that push me to learn new concepts — from backend systems and cloud infrastructure to networking and optimization algorithms.
 
 ## What I'm currently working on
 
@@ -12,7 +12,7 @@ My interests range from software engineering and distributed systems to machine 
 * Studying machine learning and optimization
 * Contributing to personal and open-source projects
 
-## Tech I work with
+## Tech Stack
 
 **Languages:** TypeScript, JavaScript, Java, Go, Python
 
@@ -22,20 +22,21 @@ My interests range from software engineering and distributed systems to machine 
 
 **Machine Learning:** Scikit-learn, PyTorch, NumPy, Pandas
 
-**Other Tech tools:** Cuda, n8n, Docker, AWS
+**Systems & Infrastructure:** CUDA, Docker, AWS, Linux
 
-## Current interests
+**Automation:** n8n
+
+## Interests
 
 * System Design
 * Cloud Computing
 * Machine Learning Engineering
-* High-Performance Computing
+* GPU Computing
 * Distributed Systems
 * Optimization Theory
-* GPU Computing
 
 ## Beyond coding
 
-I'm an avid reader, you can find me reading any book, I'd love to discuss some books.
+Outside of software, I enjoy reading and exploring ideas across a wide range of fields — literally anything: philosophy, theology, history, economics, and more. I’m always open to discussing books, ideas, or interesting technical problems.
 
-📫 I am open to collaborations. You can reach me at: **[ali2moh.04@gmail.com](mailto:ali2moh.04@gmail.com)**
+📫 For collaboration, reach me at: **[ali2moh.04@gmail.com](mailto:ali2moh.04@gmail.com)**
