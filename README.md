@@ -1,6 +1,6 @@
 # Hey, I'm Ali 👋
 
-I'm a Computer Science graduate based in Lebanon, currently working as a Software Engineer Intern at Quantum Trading Company.
+I'm a Computer Science graduate based in Lebanon, currently working as a Software Engineer at Quantum Trading Company.
 
 **Currently exploring & building:**
 * 🚀 Python modules at Quantum Trading Company
